@@ -1,0 +1,73 @@
+.bg-blue {
+    background: rgb(63,94,251);
+}
+.bg-gradient-blue {
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+.card-header.bg-blue {
+    color: #fff;
+    font-weight: bold;
+}
+
+.banner {
+    background-color: #ddd;
+    height: 320px;
+}
+
+img.img-frame {
+    height: auto;
+}
+img.img-frame.small {
+    width: 100px;
+}
+img.img-frame.bigsize {
+    width: 400px;
+}
+
+
+
+/* VNExpress */
+.img{
+    width: 100px;
+    height: 60px;
+
+    object-fit: cover;
+}
+
+.img-side{
+    width: 145px;
+    height: 87px;
+
+    object-fit: cover;
+}
+
+.img-content{
+    width: 265px;
+    height: 167px;
+}
+
+.side-text{
+    font-size: 15px;
+}
+
+.border-right{
+    border-right: 1px solid lightgray;
+}
+
+.title-link{
+    color: #9f224e;
+}
+.title-post{
+    color: black;
+    text-decoration: none;
+
+    font-size: 16px;
+    font-weight: 350;
+}
+
+.title-content{
+    font-size: 20px;
+    font-weight: 400;
+    text-decoration: none;
+}
